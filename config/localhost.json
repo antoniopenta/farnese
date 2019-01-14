@@ -1,0 +1,12 @@
+{
+  "SERVER_DB": "...",
+  "DBNAME": "..",
+  "USER": "...",
+  "PWD": "...",
+  "DEBUG" : 1,
+  "PORT" : 5005,
+  "APPLICATION_HOST" : "localhost",
+  "URL_PREFIX" : "/restpoi",
+  "LOG_F_NAME" : "ers.log",
+  "DEFAULT_RADIUS" : 200
+}

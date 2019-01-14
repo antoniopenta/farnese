@@ -1,0 +1,10 @@
+{
+  "SERVER_DB": "...",
+  "DBNAME": "..",
+  "USER": "...",
+  "PWD": "...",
+  "DEBUG" : 0,
+  "URL_PREFIX" : "/restpoi",
+  "LOG_F_NAME" : "ers.log",
+  "DEFAULT_RADIUS" : 200
+}

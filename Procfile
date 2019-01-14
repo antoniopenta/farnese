@@ -1,0 +1,1 @@
+web: gunicorn 'run-heroku:load_app("config/localhost.json")'
