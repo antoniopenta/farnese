@@ -1,6 +1,6 @@
 ## Geo-Rest-Service
 
-- Geo-Rest-Service is an example of how to develop a lightweight REST service based on FLASK and PostGIS databases.
+- Geo-Rest-Service is an example of how to develop a lightweight REST service based on FLASK and PostGIS database.
 
 
 ## What it does:
