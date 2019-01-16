@@ -1,7 +1,6 @@
-## Geo-Rest-Service
+## FARNESE
 
-- Geo-Rest-Service is an example of how to develop a lightweight REST service based on FLASK and PostGIS database.
-
+FARNESE (FlAsk RaNge quEry SErvice) is a lightweight REST service in Flask  to retrieve Point Of Interest (PoI) from  PostGiS using range queries
 
 ## What it does:
 
