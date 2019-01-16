@@ -1,6 +1,6 @@
 ## FARNESE
 
-FARNESE (FlAsk RaNge quEry SErvice) is a lightweight REST service in Flask  to retrieve Point Of Interest (PoI) from  PostGiS using range queries
+FARNESE (FlAsk RaNge quEry SErvice): a lightweight REST service in Flask (Python) to retrieve Point Of Interest (PoI) from  PostGiS using spatial range queries.
 
 ## What it does:
 
