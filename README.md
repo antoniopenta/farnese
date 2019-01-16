@@ -41,7 +41,7 @@ which means retrieve all the Points of Interest that are within the radius of 20
 - lng is longitude
 - amenity_type is the type of anemity
 - name is the name of the anemity
-
+- Data stored in PostGIS can be viewed [here](https://www.google.com/maps/d/viewer?hl=it&hl=it&ll=51.544019781040895%2C-0.06072770000002947&z=14&mid=1CVS-tA_iLeWerJJSVmXi3bWenarx9wp0)
 
 ## Create PostGIS Database
 
